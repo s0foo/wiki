@@ -13,6 +13,7 @@
 
 # Pane
 - Previous pane: `C-b ;`
+- Resize: `C-b C-<arrow>`
 
 # General
 - Display help: `C-b ?`
