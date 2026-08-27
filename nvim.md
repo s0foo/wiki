@@ -4,3 +4,6 @@
 
 # Diff
 - Mode diff: `nvim -d file1 file2`
+
+# Reference
+- Current version: v0.12.5

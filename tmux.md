@@ -20,5 +20,6 @@
 - Scroll: `C-b : set -g mouse on`
 - Enable vi mode: `C-b [`
 
-# Reference
+# References
 - Getting Started: https://github.com/tmux/tmux/wiki/Getting-Started
+- Current version: 3.7c
